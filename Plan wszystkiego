@@ -4,11 +4,16 @@ Podejscie do gracza:
 -dorobienie statystyk
 	-iq
 	-sila/kondycja
-	-przedmiot (?)
 	-umiejetnosc (czarny humor,  sztuka podrywnaia 100 itp.)
 	
 
 Mazur -> Wskrzeszenie + jakis pojebany atak z dmg
+
+Fabula:
+Matmat jako potwor przepedza mazura z jego klasy. Mazur chodzi po szkole zbierajac uczniow,
+po zebraniu ekiy wraca do klasy  najebac Tam-tama.
+
+
 
 GUI:
 -wrzucenie twarzy do osobnego "eq"
@@ -63,9 +68,6 @@ Wymagane od calej klasy, kazdego z osobna:
 
 
 
-Fabula:
-Matmat jako potwor przepedza mazura z jego klasy. Mazur chodzi po szkole zbierajac uczniow,
-po zebraniu ekiy wraca do klasy  najebac matmata.
 
 Szczegoly:
 	-walka:
