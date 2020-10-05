@@ -12,18 +12,53 @@ Podejscie do gracza:
 	-umiejetnosc (czarny humor,  sztuka podrywnaia 100 itp.)
 	
 
+Tam-tam to duży potwór nawiązujący do mat-matu.
+
 Mazur -> Wskrzeszenie + jakis pojebany atak z dmg
 
 Fabula:
 Mazur siedzi w sali. Teleportuje sie do niego Cygal i mowi, ze potrzebuje jego pomocy, bo ktos przejal nasze boisko.
 Mazur biegnie w strone boiska, lecz przy wyjsciu na boisko slyszy glos woznego" przed wyruszeniem w droge nalezy zebrac druzyne".
 Mazur chodzi po szkole zbierajac uczniow.
-po zebraniu ekipy idzie na boisko  najebac Tam-tama.
+po zebraniu ekipy idzie na boisko  rozwalić Tam-tama.
+
+
+Rozgrywka: 
+Siedzimy jako mazur w swojej sali, nagle teleportuje się cygal i mówi 
+"Ktoś przejął nasze boisko, zbierz drużynę i pokonaj zło"
+Biegniemy na parter, przy wyjściu na boisko zatrzymuje nas woźny tekstem
+"Przed wyruszeniem w wyprawe nalezy zebrać drużynę".
+Zbieramy klasę po całej szkole. Po zebraniu walczymy z Tam-tamem.
+Jako nagrodę cygal wręcza nam dodatkowy dzień wycieczki. 
 
 
 
-GUI:
+
+Jak będzie wyglądać film: 
+Cały film będzie miał miejsce głównie w świecie retro gry, 
+jednak dialogi będą przeniesione do świata realnego. 
+Po podejściu postaci mazura do kogoś z klasy jest przejście, 
+Po którym puszczone jest nagranie ze świata realnego. 
+Każda osoba będzie posiadać dorobione statystyki :
+-sila/iq
+-hp
+-umiejetnosc
+
+Po zabraniu całej drużyny wyruszamy na boisko, na którym czeka Tam-Tam.
+Walka przebiega w następujący sposób: 
+Każdy z nas po kolei zadaje obrażenia swoją umiejętnością, 
+Potem tam-tam zabija go jednym ciosem. Gdy wszyscy uczniowie polegna, 
+Mazur zadaje ostateczny atak oraz nas wskrzesza. 
+
+Cygal znowu się teleportuje i wręcza nam item jako nagrodę. 
+
+
+
+
+
+GUI w obróbce: 
 -wrzucenie twarzy do osobnego "eq"
+
 
 Gra:
 -grafika:
