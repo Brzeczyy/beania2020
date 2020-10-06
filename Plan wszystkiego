@@ -1,6 +1,4 @@
-!!!!!!!!!!!!!!!!!!!!!!
-do 23.10 trzeba ogarnac wszystkie dialogi i nagrac scenki
-!!!!!!!!!!!!!!!!!!!!!!
+
 
 
 Podejscie do gracza:
@@ -82,6 +80,7 @@ Gra:
 	-Maciej F.
 	-Kacper Sz.
 
+
 -rozmiejscowienie:
 	2 pietra 	i boisko
 	     |
@@ -94,7 +93,6 @@ Wymagane od calej klasy, kazdego z osobna:
 -avatar
 (stojace w prawo,lewo,przod,tyl)
 -zdjecie
--nagranie scen
 -wlasna postac
 -podzial na grupy
 -pomysl na wlasna umiejetnosc
